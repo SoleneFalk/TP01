@@ -1,0 +1,4 @@
+﻿  TP01.cpp
+C:\Users\solen\source\repos\TP01_Prog_Solene_Falk\TP01_Prog_Solene_Falk\TP01.cpp(120,24): error C2106: '=': left operand must be l-value
+C:\Users\solen\source\repos\TP01_Prog_Solene_Falk\TP01_Prog_Solene_Falk\TP01.cpp(123,2): error C2181: illegal else without matching if
+C:\Users\solen\source\repos\TP01_Prog_Solene_Falk\TP01_Prog_Solene_Falk\TP01.cpp(102,12): fatal  error C1075: '{': no matching token found
